@@ -97,7 +97,7 @@ const Services = () => {
         "Reporting and Visualization",
         "Collaboration and Integration",
         "Risk and Issue Tracking",
-        "Portfolio Management (for enterprise versions)",
+        "Portfolio Management (for enterprise versions)"
       ]
     };
 
