@@ -84,7 +84,22 @@ const Services = () => {
         "Statistical Reporting"
       ]
     }
-  ];
+    {
+      title: "Project Management",
+      icon: "bi bi-tools",
+      services: [
+        "Project Planning",
+        "Task Management",
+        "Resource Management",
+        "Scheduling",
+        "Budgeting & Cost Management"
+        "Progress Tracking"
+        "Reporting and Visualization"
+        "Collaboration and Integration"
+        "Risk and Issue Tracking"
+        "Portfolio Management (for enterprise versions)"
+      ]
+    };
 
   return (
     <Container className="my-5 py-4" id="services">
