@@ -18,7 +18,7 @@ const About = () => {
       "MS Publisher", "MS Outlook", "Internet & Emails"
     ],
     accountingPrograms: [
-      "QuickBooks", "Sage", "Tally", "PeachTree", "Pastel","Zoho",Xero"
+      "QuickBooks", "Sage", "Tally", "PeachTree", "Pastel","Zoho","Xero"
     ],
     advancedPrograms: [
       "Advanced Excel", "Advanced Access"
