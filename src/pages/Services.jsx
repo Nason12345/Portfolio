@@ -83,7 +83,7 @@ const Services = () => {
         "Data Visualization",
         "Statistical Reporting"
       ]
-    }
+    },
     {
       title: "Project Management",
       icon: "bi bi-tools",
