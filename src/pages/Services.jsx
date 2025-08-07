@@ -86,14 +86,14 @@ const Services = () => {
     },
     {
       title: "Project Management",
-      icon: "bi bi-tools",
+      icon: "bi bi-pencil",
       services: [
         "Project Planning",
         "Task Management",
         "Resource Management",
         "Scheduling",
         "Budgeting & Cost Management",
-        "Progress Tracking"
+        "Progress Tracking",
         "Reporting and Visualization",
         "Collaboration and Integration",
         "Risk and Issue Tracking",
