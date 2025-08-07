@@ -86,7 +86,7 @@ const Services = () => {
     },
     {
       title: "Project Management",
-      icon: "bi bi-pencil",
+      icon: "bi bi-pencils",
       services: [
         "Project Planning",
         "Task Management",
