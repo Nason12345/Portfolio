@@ -92,12 +92,12 @@ const Services = () => {
         "Task Management",
         "Resource Management",
         "Scheduling",
-        "Budgeting & Cost Management"
-        "Progress Tracking"
-        "Reporting and Visualization"
-        "Collaboration and Integration"
-        "Risk and Issue Tracking"
-        "Portfolio Management (for enterprise versions)"
+        "Budgeting & Cost Management",
+        "Progress Tracking",
+        "Reporting and Visualization",
+        "Collaboration and Integration",
+        "Risk and Issue Tracking",
+        "Portfolio Management (for enterprise versions)",
       ]
     };
 
